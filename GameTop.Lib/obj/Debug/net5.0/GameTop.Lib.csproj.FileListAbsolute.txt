@@ -1,0 +1,15 @@
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Lib\bin\Debug\net5.0\GameTop.Lib.deps.json
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Lib\bin\Debug\net5.0\GameTop.Lib.dll
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Lib\bin\Debug\net5.0\ref\GameTop.Lib.dll
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Lib\bin\Debug\net5.0\GameTop.Lib.pdb
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Lib\bin\Debug\net5.0\GameTop.Interface.dll
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Lib\bin\Debug\net5.0\GameTop.Interface.pdb
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Lib\obj\Debug\net5.0\GameTop.Lib.csprojAssemblyReference.cache
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Lib\obj\Debug\net5.0\GameTop.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Lib\obj\Debug\net5.0\GameTop.Lib.AssemblyInfoInputs.cache
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Lib\obj\Debug\net5.0\GameTop.Lib.AssemblyInfo.cs
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Lib\obj\Debug\net5.0\GameTop.Lib.csproj.CoreCompileInputs.cache
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Lib\obj\Debug\net5.0\GameTop.Lib.csproj.CopyComplete
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Lib\obj\Debug\net5.0\GameTop.Lib.dll
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Lib\obj\Debug\net5.0\ref\GameTop.Lib.dll
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Lib\obj\Debug\net5.0\GameTop.Lib.pdb

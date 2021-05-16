@@ -1,0 +1,12 @@
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Interface\bin\Debug\net5.0\GameTop.Interface.deps.json
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Interface\bin\Debug\net5.0\GameTop.Interface.dll
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Interface\bin\Debug\net5.0\ref\GameTop.Interface.dll
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Interface\bin\Debug\net5.0\GameTop.Interface.pdb
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Interface\obj\Debug\net5.0\GameTop.Interface.csprojAssemblyReference.cache
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Interface\obj\Debug\net5.0\GameTop.Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Interface\obj\Debug\net5.0\GameTop.Interface.AssemblyInfoInputs.cache
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Interface\obj\Debug\net5.0\GameTop.Interface.AssemblyInfo.cs
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Interface\obj\Debug\net5.0\GameTop.Interface.csproj.CoreCompileInputs.cache
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Interface\obj\Debug\net5.0\GameTop.Interface.dll
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Interface\obj\Debug\net5.0\ref\GameTop.Interface.dll
+D:\Thiago\Cursos\Angular\CONSOLECORE\GameTop.Interface\obj\Debug\net5.0\GameTop.Interface.pdb
